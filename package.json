@@ -12,5 +12,8 @@
   "devDependencies": {},
   "dependencies": {
     "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
